@@ -45,6 +45,6 @@ The Password Generator creates strong, random passwords based on user-defined cr
 To run these utilities, you need to have Python installed on your system.
 You will also need to install the required libraries.
 
-tkinter
-pillow
-sqlite3 (It is Included in standard library of Python newer version)
+- tkinter
+- pillow
+- sqlite3 (It is Included in standard library of Python newer version)
