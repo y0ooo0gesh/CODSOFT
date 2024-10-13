@@ -34,7 +34,7 @@ The Scientific Calculator provides various mathematical functions such as basic 
 
 The Password Generator creates strong, random passwords based on user-defined criteria such as length and inclusion of uppercase, lowercase, digits, and special characters.
 
-### Uasage
+### Features
 - Generate strong, random passwords
 - User-defined password length
 - Include/exclude uppercase, lowercase, digits, and special characters
